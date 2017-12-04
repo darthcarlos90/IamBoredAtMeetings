@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImBoredAtAMeeting", "ImBoredAtAMeeting.csproj", "{1D05E8FA-8EC1-B533-2C56-41395C40A85D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImBoredAtAMeeting.Editor", "ImBoredAtAMeeting.Editor.csproj", "{5C2D95D9-2C3B-CA2D-3120-DF745FCF445E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D05E8FA-8EC1-B533-2C56-41395C40A85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D05E8FA-8EC1-B533-2C56-41395C40A85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D05E8FA-8EC1-B533-2C56-41395C40A85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D05E8FA-8EC1-B533-2C56-41395C40A85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2D95D9-2C3B-CA2D-3120-DF745FCF445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2D95D9-2C3B-CA2D-3120-DF745FCF445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2D95D9-2C3B-CA2D-3120-DF745FCF445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2D95D9-2C3B-CA2D-3120-DF745FCF445E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
